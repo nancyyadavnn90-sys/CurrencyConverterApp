@@ -6,4 +6,7 @@
     <string name="enter_amount_error">Enter amount!</string>
     <string name="same_currency">Same currency: %1$.2f</string>
     <string name="converted_value">Converted Value: %1$.2f</string>
+    <string name="from_currency">From</string>
+    <string name="to_currency">To</string>
+    <string name="settings">Settings</string>
 </resources>
